@@ -1,0 +1,261 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.id.data.test" >
+4
+5    <uses-sdk
+5-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:5:15-41
+7        android:targetSdkVersion="24" />
+7-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:11:5-15:66
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:13:22-53
+13        android:label="Tests for com.id.data.test"
+13-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:15:22-64
+14        android:targetPackage="com.id.data.test" />
+14-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:12:22-62
+15
+16    <queries>
+16-->[androidx.test:runner:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/bcd98f96ac03c035117599e15ca6550c/transformed/runner-1.6.1/AndroidManifest.xml:24:5-28:15
+17        <package android:name="androidx.test.orchestrator" />
+17-->[androidx.test:runner:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/bcd98f96ac03c035117599e15ca6550c/transformed/runner-1.6.1/AndroidManifest.xml:25:9-62
+17-->[androidx.test:runner:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/bcd98f96ac03c035117599e15ca6550c/transformed/runner-1.6.1/AndroidManifest.xml:25:18-59
+18        <package android:name="androidx.test.services" />
+18-->[androidx.test:runner:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/bcd98f96ac03c035117599e15ca6550c/transformed/runner-1.6.1/AndroidManifest.xml:26:9-58
+18-->[androidx.test:runner:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/bcd98f96ac03c035117599e15ca6550c/transformed/runner-1.6.1/AndroidManifest.xml:26:18-55
+19        <package android:name="com.google.android.apps.common.testing.services" />
+19-->[androidx.test:runner:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/bcd98f96ac03c035117599e15ca6550c/transformed/runner-1.6.1/AndroidManifest.xml:27:9-83
+19-->[androidx.test:runner:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/bcd98f96ac03c035117599e15ca6550c/transformed/runner-1.6.1/AndroidManifest.xml:27:18-80
+20
+21        <intent>
+21-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:8:9-12:18
+22            <action android:name="android.intent.action.CREATE_DOCUMENT" />
+22-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:9:13-76
+22-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:9:21-73
+23
+24            <data android:mimeType="*/*" />
+24-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:11:13-44
+24-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:11:19-41
+25        </intent>
+26    </queries>
+27
+28    <uses-permission android:name="android.permission.REORDER_TASKS" />
+28-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:24:5-72
+28-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:24:22-69
+29    <uses-permission
+29-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:15:5-17:38
+30        android:name="android.permission.WAKE_LOCK"
+30-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:16:9-52
+31        android:maxSdkVersion="25" />
+31-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:17:9-35
+32    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+32-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:18:5-77
+32-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:18:22-74
+33
+34    <permission
+34-->[androidx.core:core:1.13.0] /Users/morieshutapea/.gradle/caches/transforms-4/adef62709bfb658f11ad57c08f0f0584/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+35        android:name="com.id.data.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+35-->[androidx.core:core:1.13.0] /Users/morieshutapea/.gradle/caches/transforms-4/adef62709bfb658f11ad57c08f0f0584/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+36        android:protectionLevel="signature" />
+36-->[androidx.core:core:1.13.0] /Users/morieshutapea/.gradle/caches/transforms-4/adef62709bfb658f11ad57c08f0f0584/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+37
+38    <uses-permission android:name="com.id.data.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+38-->[androidx.core:core:1.13.0] /Users/morieshutapea/.gradle/caches/transforms-4/adef62709bfb658f11ad57c08f0f0584/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+38-->[androidx.core:core:1.13.0] /Users/morieshutapea/.gradle/caches/transforms-4/adef62709bfb658f11ad57c08f0f0584/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+39
+40    <application
+40-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:7:5-9:19
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.13.0] /Users/morieshutapea/.gradle/caches/transforms-4/adef62709bfb658f11ad57c08f0f0584/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+42        android:debuggable="true"
+43        android:extractNativeLibs="false" >
+44        <uses-library android:name="android.test.runner" />
+44-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:8:9-60
+44-->/Users/morieshutapea/Downloads/newsapp/data/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9588288095652245728.xml:8:23-57
+45
+46        <activity
+46-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:27:9-34:20
+47            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+47-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:28:13-99
+48            android:exported="true"
+48-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:29:13-36
+49            android:theme="@style/WhiteBackgroundTheme" >
+49-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:30:13-56
+50            <intent-filter android:priority="-100" >
+50-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+50-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:32:17-77
+51-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:32:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:35:9-42:20
+55            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+55-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:36:13-95
+56            android:exported="true"
+56-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:37:13-36
+57            android:theme="@style/WhiteBackgroundTheme" >
+57-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:38:13-56
+58            <intent-filter android:priority="-100" >
+58-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+58-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:32:17-77
+59-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:32:27-74
+60            </intent-filter>
+61        </activity>
+62        <activity
+62-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:43:9-50:20
+63            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+63-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:44:13-103
+64            android:exported="true"
+64-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:45:13-36
+65            android:theme="@style/WhiteBackgroundDialogTheme" >
+65-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:46:13-62
+66            <intent-filter android:priority="-100" >
+66-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+66-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:32:17-77
+67-->[androidx.test:core:1.6.1] /Users/morieshutapea/.gradle/caches/transforms-4/e628e7d2f270341fc02071022bdb66bc/transformed/core-1.6.1/AndroidManifest.xml:32:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:21:9-26:52
+71            android:name="com.chuckerteam.chucker.internal.ui.MainActivity"
+71-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:22:13-76
+72            android:label="@string/chucker_name"
+72-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:23:13-49
+73            android:launchMode="singleTask"
+73-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:24:13-44
+74            android:taskAffinity="com.chuckerteam.chucker.task"
+74-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:25:13-64
+75            android:theme="@style/Chucker.Theme" />
+75-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:26:13-49
+76        <activity
+76-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:27:9-30:52
+77            android:name="com.chuckerteam.chucker.internal.ui.transaction.TransactionActivity"
+77-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:28:13-95
+78            android:parentActivityName="com.chuckerteam.chucker.internal.ui.MainActivity"
+78-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:29:13-90
+79            android:theme="@style/Chucker.Theme" />
+79-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:30:13-49
+80
+81        <service
+81-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:32:9-35:72
+82            android:name="com.chuckerteam.chucker.internal.support.ClearDatabaseService"
+82-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:33:13-89
+83            android:exported="false"
+83-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:34:13-37
+84            android:permission="android.permission.BIND_JOB_SERVICE" />
+84-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:35:13-69
+85
+86        <receiver
+86-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:37:9-39:40
+87            android:name="com.chuckerteam.chucker.internal.support.ClearDatabaseJobIntentServiceReceiver"
+87-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:38:13-106
+88            android:exported="false" />
+88-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:39:13-37
+89
+90        <provider
+90-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:41:9-49:20
+91            android:name="com.chuckerteam.chucker.internal.support.ChuckerFileProvider"
+91-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:42:13-88
+92            android:authorities="com.id.data.test.com.chuckerteam.chucker.provider"
+92-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:43:13-84
+93            android:exported="false"
+93-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:44:13-37
+94            android:grantUriPermissions="true" >
+94-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:45:13-47
+95            <meta-data
+95-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:46:13-48:66
+96                android:name="android.support.FILE_PROVIDER_PATHS"
+96-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:47:17-67
+97                android:resource="@xml/chucker_provider_paths" />
+97-->[com.github.chuckerteam.chucker:library:4.0.0] /Users/morieshutapea/.gradle/caches/transforms-4/ec09989c858a574e0f7b2976bf27a5dc/transformed/library-4.0.0/AndroidManifest.xml:48:17-63
+98        </provider>
+99        <provider
+99-->[androidx.emoji2:emoji2:1.3.0] /Users/morieshutapea/.gradle/caches/transforms-4/6dc0cbb7f6baacfcfe167fad85cd9ce8/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+100            android:name="androidx.startup.InitializationProvider"
+100-->[androidx.emoji2:emoji2:1.3.0] /Users/morieshutapea/.gradle/caches/transforms-4/6dc0cbb7f6baacfcfe167fad85cd9ce8/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+101            android:authorities="com.id.data.test.androidx-startup"
+101-->[androidx.emoji2:emoji2:1.3.0] /Users/morieshutapea/.gradle/caches/transforms-4/6dc0cbb7f6baacfcfe167fad85cd9ce8/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+102            android:exported="false" >
+102-->[androidx.emoji2:emoji2:1.3.0] /Users/morieshutapea/.gradle/caches/transforms-4/6dc0cbb7f6baacfcfe167fad85cd9ce8/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+103            <meta-data
+103-->[androidx.emoji2:emoji2:1.3.0] /Users/morieshutapea/.gradle/caches/transforms-4/6dc0cbb7f6baacfcfe167fad85cd9ce8/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+104                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+104-->[androidx.emoji2:emoji2:1.3.0] /Users/morieshutapea/.gradle/caches/transforms-4/6dc0cbb7f6baacfcfe167fad85cd9ce8/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+105                android:value="androidx.startup" />
+105-->[androidx.emoji2:emoji2:1.3.0] /Users/morieshutapea/.gradle/caches/transforms-4/6dc0cbb7f6baacfcfe167fad85cd9ce8/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+106            <meta-data
+106-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/morieshutapea/.gradle/caches/transforms-4/3dfd1cabb862406c4992af408ff00cfd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+107                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+107-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/morieshutapea/.gradle/caches/transforms-4/3dfd1cabb862406c4992af408ff00cfd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+108                android:value="androidx.startup" />
+108-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/morieshutapea/.gradle/caches/transforms-4/3dfd1cabb862406c4992af408ff00cfd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+109            <meta-data
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+110                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+111                android:value="androidx.startup" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+112        </provider>
+113
+114        <receiver
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+115            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+115-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+116            android:directBootAware="false"
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+117            android:enabled="true"
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+118            android:exported="true"
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+119            android:permission="android.permission.DUMP" >
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+120            <intent-filter>
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+121                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+122            </intent-filter>
+123            <intent-filter>
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+124                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+125            </intent-filter>
+126            <intent-filter>
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+127                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+128            </intent-filter>
+129            <intent-filter>
+129-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+130                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/morieshutapea/.gradle/caches/transforms-4/5063784a72872e9bed9923b8885edb60/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+131            </intent-filter>
+132        </receiver>
+133
+134        <service
+134-->[androidx.room:room-runtime:2.5.2] /Users/morieshutapea/.gradle/caches/transforms-4/e7e1895ddd079e5032489ead787c8e58/transformed/room-runtime-2.5.2/AndroidManifest.xml:24:9-28:63
+135            android:name="androidx.room.MultiInstanceInvalidationService"
+135-->[androidx.room:room-runtime:2.5.2] /Users/morieshutapea/.gradle/caches/transforms-4/e7e1895ddd079e5032489ead787c8e58/transformed/room-runtime-2.5.2/AndroidManifest.xml:25:13-74
+136            android:directBootAware="true"
+136-->[androidx.room:room-runtime:2.5.2] /Users/morieshutapea/.gradle/caches/transforms-4/e7e1895ddd079e5032489ead787c8e58/transformed/room-runtime-2.5.2/AndroidManifest.xml:26:13-43
+137            android:exported="false" />
+137-->[androidx.room:room-runtime:2.5.2] /Users/morieshutapea/.gradle/caches/transforms-4/e7e1895ddd079e5032489ead787c8e58/transformed/room-runtime-2.5.2/AndroidManifest.xml:27:13-37
+138    </application>
+139
+140</manifest>

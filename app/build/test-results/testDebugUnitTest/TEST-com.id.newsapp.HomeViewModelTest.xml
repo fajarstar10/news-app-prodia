@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.id.newsapp.HomeViewModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-04-12T17:00:21" hostname="Moriess-MacBook-Pro.local" time="0.083">
+  <properties/>
+  <testcase name="AddToRecentSearches adds new query" classname="com.id.newsapp.HomeViewModelTest" time="0.076"/>
+  <testcase name="ToggleSortOrder should reverse sort order" classname="com.id.newsapp.HomeViewModelTest" time="0.004"/>
+  <testcase name="Logout updates isLoggedOut state to true" classname="com.id.newsapp.HomeViewModelTest" time="0.001"/>
+  <testcase name="LoadEmail updates state with email" classname="com.id.newsapp.HomeViewModelTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
